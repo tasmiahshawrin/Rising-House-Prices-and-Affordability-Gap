@@ -26,4 +26,3 @@ Member Contribution:
    2. Taibun Sayed (24-58839-2): Data collection, income dataset analysis and cleaning, geographical harmonisation, RQ3
    3. Ovi Ghosh (25-61733-1): EDA and Summary statistics, RQ5
    4. MD.Hasnat (25-61087-1): RQ4, report writing
-   5. MD Shazzadul Islam (24-58756-2): No contribution
